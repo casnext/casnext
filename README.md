@@ -1,4 +1,4 @@
-<img src="[https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://drive.google.com/file/d/1xYgMeDyi6WJmjKCQjeR2eq0vGVvnyNog/view?usp=sharing)">
+<img src="https://drive.google.com/file/d/1xYgMeDyi6WJmjKCQjeR2eq0vGVvnyNog/view?usp=sharing">
 
 <h1>Perfil GitHub - Victor Cassimiro </h1>
 <h2>Sobre Mim</h2>
