@@ -1,8 +1,6 @@
-<img src="https://drive.google.com/file/d/1xYgMeDyi6WJmjKCQjeR2eq0vGVvnyNog/view?usp=sharing">
 
-<h1>Perfil GitHub - Victor Cassimiro </h1>
-<h2>Sobre Mim</h2>
-Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho um perfil versátil, com experiência em diversas linguagens de programação, como PHP, C#, JavaScript, além de me dedicar ao mundo do DevOps.
+<h1>Sobre Mim</h1>
+<h2>Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho um perfil versátil, com experiência em diversas linguagens de programação, como PHP, C#, JavaScript, além de me dedicar ao mundo do DevOps.</h2>
 
 <h3>Linguagens de Programação</h3>
 Ao longo da minha jornada como desenvolvedor, tenho enfrentado diversos desafios nas linguagens de programação PHP, C# e JavaScript. Essas linguagens me proporcionaram a oportunidade de trabalhar em projetos variados, desde aplicações web até sistemas complexos de back-end.
