@@ -23,9 +23,9 @@ No meu perfil do GitHub, você encontrará uma variedade de projetos nos quais c
 
 Estou aberto a colaborações e sugestões de melhorias nos meus projetos existentes, então sinta-se à vontade para explorar meu repositório e contribuir se encontrar algo interessante!
 
-<h2>
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext) 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext)
-</h2>
+
+<h2></h2>
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/casnext)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-cassimiro/)
