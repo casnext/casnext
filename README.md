@@ -1,3 +1,6 @@
+https://drive.google.com/file/d/1egscqopXoZlychTso-razdwVJgtVwTwa/view?usp=drive_link
+<img src="https://drive.google.com/file/d/1egscqopXoZlychTso-razdwVJgtVwTwa/view?usp=drive_link" />
+
 
 <h2>Sobre Mim</h2>
 <h3>Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho um perfil versátil, com experiência em diversas linguagens de programação, como PHP, C#, JavaScript, além de me dedicar ao mundo do DevOps.
