@@ -26,6 +26,7 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 
 
 <img alt="github-snake" src="github-snake.svg" />
+<img src="github-snake.svg" />
 
 <h2></h2>
 
