@@ -24,9 +24,8 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext) 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext)
 
+<img src="https://github.com/casnext/contrib-github-snake/blob/main/github-contribution-grid-snake.svg" />
 
-<img alt="github-snake" src="github-snake.svg" />
-<img src="github-snake.svg" />
 
 <h2></h2>
 
