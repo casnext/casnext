@@ -68,7 +68,7 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 <h2>🌐 Links e ferramentas</h2>
 
 <p align="center">
-  <a href="https://medium.com/casnext">
+  <a href="https://medium.com/@cassimironet">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/victor-cassimiro/">
