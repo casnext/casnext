@@ -31,7 +31,7 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 <h2></h2>
 
 
-<h2><center>💻 Tecnologias e Linguagens</centro></h2>
+<center><h2>💻 Tecnologias e Linguagens</h2></centro>
 
 
 
