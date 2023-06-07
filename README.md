@@ -29,10 +29,6 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 </p>
 
 <h2></h2>
-<p align="center">
-<img src="https://github.com/casnext/contrib-github-snake/blob/main/github-contribution-grid-snake.svg" />
-
-<h2></h2>
 
 <h2>💻 Tecnologias e Linguagens</h2>
 
