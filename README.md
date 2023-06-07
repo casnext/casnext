@@ -40,8 +40,6 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
   <img src="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667" width="50" />
  
   <img src="https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667" width="50" />
-  
-<img src="https://github.com/casnext/contrib-github-snake/blob/main/pngimg.com%20-%20php_PNG23.png" width="50" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" />
  
@@ -61,6 +59,9 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
   <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="50" />
  
   <img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="50" />
+  
+<img src="https://github.com/casnext/contrib-github-snake/blob/main/pngimg.com%20-%20php_PNG23.png" width="50" />
+  
 </p>
 
 <h2></h2>
