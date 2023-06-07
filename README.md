@@ -26,8 +26,6 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&amp;layout=compact&amp;langs_count=7&amp;theme=dark)
 
-<img height="180em" src="https://camo.githubusercontent.com/e1117f70f14b9f88b38675aa2c773915dd0d9b34534f2b1ee4063b2046c3ff52/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50617472696369612d53696c7661312673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Patricia-Silva1&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-
 <h2></h2>
 
 <img src="https://github.com/casnext/contrib-github-snake/blob/main/github-contribution-grid-snake.svg" />
