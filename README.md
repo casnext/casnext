@@ -30,9 +30,9 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 
 <img src="https://github.com/casnext/contrib-github-snake/blob/main/github-contribution-grid-snake.svg" />
 
+<h2></h2>
 
 <h2>💻 Tecnologias e ferramentas</h2>
-<h2></h2>
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/casnext) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-cassimiro/)
