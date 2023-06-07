@@ -65,6 +65,9 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
   <a href="https://www.linkedin.com/in/victor-cassimiro/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/victor-cassimiro/">
+    <img src="https://camo.githubusercontent.com/5c744364d84d58178044a9ab799895f95cc470ed02a99e0e1d7c353282f460f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333538363546322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" />
+  </a>
   <img src="https://camo.githubusercontent.com/7a9f81fa65414698593f11241441b84b05a384143dc213abf28836863e7f7de2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" />
 </p>
 
