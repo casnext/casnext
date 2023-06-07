@@ -25,10 +25,7 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext)
 
 
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-
+<img alt="github-snake" src="github-snake.svg" />
 
 <h2></h2>
 
