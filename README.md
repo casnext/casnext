@@ -23,14 +23,8 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 
 <h2></h2>
 
-<img height="180em" src="https://camo.githubusercontent.com/08d9636aa6d6bbfd37ad07fe41ed1173e4263d2e88e2ab70a7f5d4e45e9aae2c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50617472696369612d53696c766131266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Silva1&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true) ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&amp;layout=compact&amp;langs_count=7&amp;theme=dark)
 
-
-
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&amp;layout=compact&amp;langs_count=7&amp;theme=dark)
 
 
 <h2></h2>
