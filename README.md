@@ -41,7 +41,9 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
  
   <img src="https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667" width="50" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" />
+<img src="https://github.com/casnext/contrib-github-snake/blob/main/pngimg.com%20-%20php_PNG23.png" width="50" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" />
  
   <img src="https://camo.githubusercontent.com/aa8b3e6b6fc55ea158e132e1c33ba6aa7fe49706a4e4bd64701af1cf89f514b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" width="50" />
   
@@ -50,9 +52,7 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
   <img src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667" width="50" />
   
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
-  
-  <img src="https://github.com/casnext/contrib-github-snake/blob/main/pngimg.com%20-%20php_PNG23.png" width="50" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
   
   <img src="https://camo.githubusercontent.com/7a7f22bfe9c48db7252938295d6da6cc3ed16d7b272ec6b687d569d426b5168b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" width="50" />
   
