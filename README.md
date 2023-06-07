@@ -24,12 +24,9 @@ Além das linguagens de programação, também me interessei e me aprofundei na 
 
 Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e Kubernetes para criação e orquestração de contêineres. Também explorei a automação de tarefas com ferramentas como Jenkins e GitLab CI/CD. A infraestrutura como código (IaC) utilizando ferramentas como Terraform e Ansible também se tornou parte do meu repertório.
 
-<h3>Contribuições e Projetos</h3>
-No meu perfil do GitHub, você encontrará uma variedade de projetos nos quais contribuí ou desenvolvi por conta própria. Desde pequenos scripts úteis até projetos mais complexos, meu objetivo sempre foi compartilhar conhecimento e colaborar com a comunidade de desenvolvedores.
-
-Estou aberto a colaborações e sugestões de melhorias nos meus projetos existentes, então sinta-se à vontade para explorar meu repositório e contribuir se encontrar algo interessante!
-
 <h2></h2>
+
+<h3>Indicadores</h3>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&amp;layout=compact&amp;langs_count=7&amp;theme=dark)
