@@ -30,10 +30,7 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 
 <h2></h2>
 
-
-<center><h2>💻 Tecnologias e Linguagens</h2></centro>
-
-
+<h2>💻 Tecnologias e Linguagens</h2>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667" width="50" />
@@ -65,9 +62,8 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 
 <h2></h2>
 
-<p align="center"> 
-<h2>🌐 Links e ferramentas</h2>
-</p>
+<h2><center>🌐 Links e ferramentas</center></h2>
+
 
 <p align="center">
   <a href="https://medium.com/@cassimironet">
