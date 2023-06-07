@@ -25,13 +25,17 @@ Estou aberto a colaborações e sugestões de melhorias nos meus projetos existe
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext) 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext)
 <h2></h2>
+
 <img src="https://github.com/casnext/contrib-github-snake/blob/main/github-contribution-grid-snake.svg" />
+
 <h2></h2>
+
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/casnext) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-cassimiro/)
 <img src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" />
 <img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" />
 <img src="https://camo.githubusercontent.com/7a9f81fa65414698593f11241441b84b05a384143dc213abf28836863e7f7de2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" />
+
 <h2></h2>
 
 
