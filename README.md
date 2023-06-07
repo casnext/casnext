@@ -1,14 +1,17 @@
 <img src="https://github.com/casnext/contrib-github-snake/blob/main/1.svg" />
 
 <h2>Sobre Mim</h2>
-<h3>Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho um perfil versátil, com experiência em diversas linguagens de programação, como PHP, C#, JavaScript, além de me dedicar ao mundo do DevOps.
-</h3>
+Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho um perfil versátil, com experiência em diversas linguagens de programação, como PHP, C#, JavaScript, além de me dedicar ao mundo do DevOps.
+
+<h2></h2>
 
 • 28 anos,  Ipatinga/MG
 • Bacharelado em Sistemas de Informação - Faculdade Doctum MG
 • Liguas: Português, English
 • Coordenador de TI em Provest Uniformes
 • Desenvolvimento de mini sistemas para (DevelopWAY)
+
+<h2></h2>
 
 <h3>Linguagens de Programação</h3>
 Ao longo da minha jornada como desenvolvedor, tenho enfrentado diversos desafios nas linguagens de programação PHP, C# e JavaScript. Essas linguagens me proporcionaram a oportunidade de trabalhar em projetos variados, desde aplicações web até sistemas complexos de back-end.
