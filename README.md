@@ -22,8 +22,10 @@ No meu perfil do GitHub, você encontrará uma variedade de projetos nos quais c
 Estou aberto a colaborações e sugestões de melhorias nos meus projetos existentes, então sinta-se à vontade para explorar meu repositório e contribuir se encontrar algo interessante!
 
 <h2></h2>
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=casnext) 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=casnext)
+
 <h2></h2>
 
 <img src="https://github.com/casnext/contrib-github-snake/blob/main/github-contribution-grid-snake.svg" />
