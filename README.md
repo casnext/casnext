@@ -24,8 +24,8 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 <h2></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=casnext&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="casnext github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&layout=compact&langs_count=20&theme=dark" alt="casnext top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=casnext&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="casnext github stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&layout=compact&langs_count=20&theme=dark" alt="casnext top languages" height="180em" />
 </p>
 
 <h2></h2>
