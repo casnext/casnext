@@ -13,9 +13,6 @@ Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho u
 
 <h2></h2>
 
-<h3>Linguagens de Programação</h3>
-Como desenvolvedor, enfrentei desafios nas linguagens PHP, C# e JavaScript. Trabalhei em projetos web, desktop e APIs, usando frameworks como React e Node.js. Otimização, segurança e escalabilidade foram prioridades em cada linguagem.
-
 <h3>Experiência em DevOps</h3>
 Além das linguagens de programação, também me interessei e me aprofundei na área de DevOps. Acredito que a integração contínua, entrega contínua e automação de infraestrutura são fundamentais para o desenvolvimento ágil de software.
 
