@@ -8,7 +8,7 @@ Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho u
 
 • 28 anos,  Ipatinga/MG
 • Bacharelado em Sistemas de Informação - Faculdade Doctum MG
-• Liguas: Português, English
+• Liguas: Português, English, Français
 • Coordenador de TI em Provest Uniformes
 • Desenvolvimento de mini sistemas para (DevelopWAY)
 
