@@ -36,7 +36,6 @@ Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e K
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" />
 
- 
   <img src="https://camo.githubusercontent.com/aa8b3e6b6fc55ea158e132e1c33ba6aa7fe49706a4e4bd64701af1cf89f514b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" width="50" />
   
   <img src="https://camo.githubusercontent.com/1d58fcc772b862a9e1a39d95582a03723622e19fe151a71076e1f64044c9ec88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" width="50" />
