@@ -1,56 +1,132 @@
 <img src="https://github.com/casnext/contrib-github-snake/blob/main/Victor Cassimiro.png" />
 
-<h2>Sobre Mim</h2>
-Olá! Sou Victor Cassimiro, um entusiasta da programação e tecnologia. Tenho um perfil versátil, com experiência em diversas linguagens de programação, como PHP, C#, JavaScript, além de me dedicar ao mundo do DevOps.
-
-<h2></h2>
-
-
-• 29 anos,  Ipatinga/MG
-• Bacharelado em Sistemas de Informação - Faculdade Doctum MG
-• Liguas: Português, English, Français
-• Coordenador de TI em Provest Uniformes
-• Desenvolvimento de mini sistemas para (DevelopWAY)
-
-<h2></h2>
-
-<h3>Experiência em DevOps</h3>
-Além das linguagens de programação, também me interessei e me aprofundei na área de DevOps. Acredito que a integração contínua, entrega contínua e automação de infraestrutura são fundamentais para o desenvolvimento ágil de software.
-
-Durante a minha trajetória, adquiri conhecimento em ferramentas como Docker e Kubernetes para criação e orquestração de contêineres. Também explorei a automação de tarefas com ferramentas como Jenkins e GitLab CI/CD. A infraestrutura como código (IaC) utilizando ferramentas como Terraform e Ansible também se tornou parte do meu repertório.
-
-<h2></h2>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=casnext&show_icons=true&theme=dark&include_all_commits=false&count_private=true" alt="casnext github stats" height="190em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casnext&layout=compact&langs_count=21&theme=dark" alt="casnext top languages" height="190em" />
+Empresário • CEO da Unicon Tecnologia • Infraestrutura • DevOps • Redes
 </p>
 
-<h2></h2>
-
-<h2 align="center">💻 Tecnologias e Linguagens</h2>
-
 <p align="center">
-  
-  
+  <a href="https://unicontecnologia.com.br/">
+    <img src="https://img.shields.io/badge/Website-Unicon_Tecnologia-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/CEO-Unicon_Tecnologia-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infraestrutura-Redes%20Corporativas-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-Automação%20de%20Infraestrutura-orange?style=for-the-badge"/>
 </p>
 
-<h2></h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=casnext&style=for-the-badge&label=VISUALIZAÇÕES&color=blue" />
+</p>
 
-<h2 align="center" >🌐 Links e ferramentas</h2>
+---
+
+# 👋 Sobre Mim
+
+Olá! Sou **Victor Cassimiro**, profissional de tecnologia com atuação em **infraestrutura de redes, DevOps, governança de TI e desenvolvimento de soluções tecnológicas**.
+
+Sou **Empresário e CEO da Unicon Tecnologia**, empresa especializada em **consultoria de TI, projetos de infraestrutura, automação, segurança e inteligência de dados para empresas**.
+
+Minha abordagem é focada em **tecnologia aplicada ao negócio**, projetando ambientes **seguros, escaláveis e eficientes**.
+
+---
+
+## 📍 Informações
+
+• 🎂 31 anos  
+• 📍 Ipatinga / Minas Gerais - Brasil  
+• 🎓 Bacharel em Sistemas de Informação — Faculdade Doctum MG  
+• 🌎 Idiomas: Português | English | Français  
+• 💼 Coordenador de TI — Provest Uniformes  
+• 🚀 CEO — Unicon Tecnologia  
+
+---
+
+# 🏢 Unicon Tecnologia
+
+<p>
+A <b>Unicon Tecnologia</b> nasceu com a premissa de que toda empresa — independente do tamanho — merece uma TI de alto nível.
+Atuamos com <b>consultoria estratégica</b>, <b>projetos de redes</b>, <b>segurança</b>, <b>governança</b> e <b>automação</b> para ambientes corporativos.
+</p>
+
+<p align="center">
+  <a href="https://unicontecnologia.com.br/">
+    <img src="https://img.shields.io/badge/Acessar%20o%20site-unicontecnologia.com.br-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🏅 Certificações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MikroTik-MTCNA-red?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COBIT-2019%20Foundation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ITIL-4%20Foundation-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Essentials-yellow?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+# ⚙️ Especialidades
+
+✔ Infraestrutura de redes corporativas  
+✔ Segurança de redes e firewall  
+✔ Governança de TI  
+✔ Automação de processos  
+✔ DevOps e containers  
+✔ Consultoria tecnológica para empresas  
+
+---
+
+# 🚀 Experiência em DevOps
+
+Tenho experiência com:
+
+• Containerização com **Docker**  
+• Orquestração com **Kubernetes**  
+• **CI/CD pipelines**  
+• Infraestrutura como código (**IaC**)  
+• Automação de provisionamento  
+
+Ferramentas:
+
+✔ Docker • Kubernetes • Jenkins • GitLab CI/CD • Terraform • Ansible  
+
+---
+
+# 💻 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,cs,docker,kubernetes,linux,nginx,mysql,git,github,cloudflare,aws,azure" />
+</p>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=casnext&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Contato e Links
 
 <p align="center">
   <a href="https://medium.com/@cassimironet">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/victor-cassimiro/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- 
 </p>
 
+---
 
-<h2></h2>
+<p align="center">
+💡 “Tecnologia bem aplicada transforma empresas.”
+</p>
 
 
 
