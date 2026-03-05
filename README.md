@@ -1,4 +1,4 @@
-<img src="https://github.com/casnext/contrib-github-snake/blob/main/Victor Cassimiro.png" />
+<img src="https://raw.githubusercontent.com/casnext/casnext/refs/heads/main/Victor%20Cassimiro.png" />
 
 <p align="center">
 Empresário • CEO da Unicon Tecnologia • Infraestrutura • DevOps • Redes
