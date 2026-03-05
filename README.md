@@ -32,10 +32,15 @@ Minha abordagem é focada em **tecnologia aplicada ao negócio**, projetando amb
 ## 📍 Informações
 
 • 🎂 31 anos
-• 📍 Ipatinga / Minas Gerais - Brasil 
+
+• 📍 Ipatinga / Minas Gerais - Brasil
+
 • 🎓 Bacharel em Sistemas de Informação — Faculdade Doctum MG
+
 • 💼 Coordenador de TI — Provest Uniformes
+
 • 🌎 Idiomas: Português | English
+
 • 🚀 CEO — Unicon Tecnologia
 
 ---
