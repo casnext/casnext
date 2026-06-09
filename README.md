@@ -103,19 +103,6 @@ Ferramentas:
 
 ---
 
-# 🌐 Contato e Links
-
-<p align="center">
-  <a href="https://medium.com/@cassimironet">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/victor-cassimiro/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <p align="center">
 💡 “Tecnologia bem aplicada transforma empresas.”
 </p>
